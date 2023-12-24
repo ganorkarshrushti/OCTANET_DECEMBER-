@@ -1,6 +1,6 @@
 # OCTANET_DECEMBER
 
-Task-1 :Landing Page using HTML and CSS.
+Task-1 : Landing Page using HTML and CSS.
 
 
 
